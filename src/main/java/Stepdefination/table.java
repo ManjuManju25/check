@@ -3,8 +3,13 @@ package Stepdefination;
 public class table {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-System.out.println("Hello");
+	  int star=5;
+	  for(int i=0;i<star;i++)
+	  {
+		  System.out.println(" * ");
+	  }
+	   System.out.println();
+          
 	}
 
 }
